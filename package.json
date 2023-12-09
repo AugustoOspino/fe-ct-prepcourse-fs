@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "prueba": "jest M05/tests/39.test.js"
   },
   "keywords": [],
   "author": "",
