@@ -5,11 +5,11 @@ function esVocal(letra) {
   // Tu código:
   var tam = letra.length
 if (tam =! 1 ){
-  return "Dato incorrecto"
+  return "Dato incorrecto";
 }else if (letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra === 'u'){
-  return "Es vocal"
+  return "Es vocal";
 }else {
-  return "Dato incorrecto"
+  return "Dato incorrecto";
 }
 
   

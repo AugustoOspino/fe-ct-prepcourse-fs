@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "prueba": "jest M05/tests/39.test.js"
+    "prueba": "jest M05/tests/38.test.js"
   },
   "keywords": [],
   "author": "",
